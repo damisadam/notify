@@ -5,7 +5,7 @@
 Using Composer
 
 ```
-composer require codecourse/notify
+composer require damisadam/notify
 ```
 
 Add the service provider to `config/app.php`
